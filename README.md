@@ -1,0 +1,2 @@
+# ReTaikoDevKatsu
+ReTaikoDevKatsuはTJAPlayer3-Develop-ReWriteを改造しているものです
