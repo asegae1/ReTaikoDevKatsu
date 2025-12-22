@@ -1,0 +1,192 @@
+
+DTXMania powered by YAMAHA Silent Session Drums
+Release: 1.4.5
+
+2025/12/22 21:06:18.066 [INFO] ----------------------
+2025/12/22 21:06:18.067 [INFO] ■ アプリケーションの初期化
+2025/12/22 21:06:18.067 [INFO] OS Version: Microsoft Windows NT 6.2.9200.0
+2025/12/22 21:06:18.068 [INFO] ProcessorCount: 8
+2025/12/22 21:06:18.068 [INFO] CLR Version: 4.0.30319.42000
+2025/12/22 21:06:18.403 [INFO] スキンの初期化を行います。
+2025/12/22 21:06:18.414 [INFO]     SkinPath検出: F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\
+2025/12/22 21:06:18.414 [INFO]     SkinPath入力: F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\
+2025/12/22 21:06:18.415 [INFO]     SkinPath設定: F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\
+2025/12/22 21:06:18.415 [INFO]     システムサウンドを読み込みました。(Sounds\Move.ogg)
+2025/12/22 21:06:18.415 [INFO]     システムサウンドを読み込みました。(Sounds\Decide.ogg)
+2025/12/22 21:06:18.415 [INFO]     システムサウンドを読み込みました。(Sounds\Change.ogg)
+2025/12/22 21:06:18.415 [INFO]     システムサウンドを読み込みました。(Sounds\Cancel.ogg)
+2025/12/22 21:06:18.415 [WARNING]     ファイルが存在しません。: Sounds\Audience.ogg
+2025/12/22 21:06:18.415 [INFO]     システムサウンドを読み込みました。(Sounds\Audience.ogg)
+2025/12/22 21:06:18.416 [WARNING]     ファイルが存在しません。: Sounds\Game start.ogg
+2025/12/22 21:06:18.416 [INFO]     システムサウンドを読み込みました。(Sounds\Game start.ogg)
+2025/12/22 21:06:18.416 [WARNING]     ファイルが存在しません。: Sounds\Full combo.ogg
+2025/12/22 21:06:18.416 [INFO]     システムサウンドを読み込みました。(Sounds\Full combo.ogg)
+2025/12/22 21:06:18.416 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Title.ogg)
+2025/12/22 21:06:18.416 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\SongSelect.ogg)
+2025/12/22 21:06:18.416 [INFO]     システムサウンドを読み込みました。(Sounds\balloon.ogg)
+2025/12/22 21:06:18.416 [INFO]     システムサウンドを読み込みました。(Sounds\SongDecide.ogg)
+2025/12/22 21:06:18.416 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Result_In.ogg)
+2025/12/22 21:06:18.416 [WARNING]     ファイルが存在しません。: Sounds\Resume.ogg
+2025/12/22 21:06:18.416 [INFO]     システムサウンドを読み込みました。(Sounds\Resume.ogg)
+2025/12/22 21:06:18.416 [INFO]     システムサウンドを読み込みました。(Sounds\Pause.ogg)
+2025/12/22 21:06:18.416 [INFO]     システムサウンドを読み込みました。(Sounds\Scroll.ogg)
+2025/12/22 21:06:18.416 [INFO]     システムサウンドを読み込みました。(Sounds\Jump Point.ogg)
+2025/12/22 21:06:18.416 [INFO]     システムサウンドを読み込みました。(Sounds\Traning Skip.ogg)
+2025/12/22 21:06:18.433 [INFO]     スキンの初期化を完了しました。
+2025/12/22 21:06:18.433 [INFO] タイマの初期化を行います。
+2025/12/22 21:06:18.433 [INFO]     タイマの初期化を完了しました。
+2025/12/22 21:06:18.433 [INFO] FPSカウンタの初期化を行います。
+2025/12/22 21:06:18.433 [INFO]     FPSカウンタを生成しました。
+2025/12/22 21:06:18.433 [INFO] 文字コンソールの初期化を行います。
+2025/12/22 21:06:18.433 [INFO]     文字コンソールを生成しました。
+2025/12/22 21:06:18.440 [INFO]     文字コンソールを活性化しました。
+2025/12/22 21:06:18.440 [INFO]     文字コンソールの初期化を完了しました。
+2025/12/22 21:06:18.440 [INFO] DirectInput, MIDI入力の初期化を行います。
+2025/12/22 21:06:18.477 [INFO]     キーボード を生成しました。
+2025/12/22 21:06:18.509 [INFO]     マウス を生成しました。
+2025/12/22 21:06:18.575 [INFO]     MIDI入力デバイス数: 0
+2025/12/22 21:06:18.575 [INFO]     DirectInput の初期化を完了しました。
+2025/12/22 21:06:18.575 [INFO] パッドの初期化を行います。
+2025/12/22 21:06:18.575 [INFO]     パッドの初期化を完了しました。
+2025/12/22 21:06:18.575 [INFO] サウンドデバイスの初期化を行います。
+2025/12/22 21:06:18.578 [INFO]     BASS (WASAPI) の初期化を開始します。
+2025/12/22 21:06:18.846 [INFO]     BASS を初期化しました。(WASAPI共有モード, 50ms, 更新間隔10ms)
+2025/12/22 21:06:18.849 [INFO]     BASS_CONFIG_UpdatePeriod=0
+2025/12/22 21:06:18.849 [INFO]     BASS_CONFIG_UpdateThreads=0
+2025/12/22 21:06:18.849 [INFO]     Initializing loudness scanning, song gain control, and sound group level control...
+2025/12/22 21:06:18.913 [INFO]         LoudnessMetadataScanner.StartBackgroundScanning: BS1770GAIN is not available. A background scanning thread will not be started.
+2025/12/22 21:06:18.917 [INFO]     Initialized loudness scanning, song gain control, and sound group level control.
+2025/12/22 21:06:18.919 [INFO]     サウンドデバイスの初期化を完了しました。
+2025/12/22 21:06:18.919 [INFO] 曲リストの初期化を行います。
+2025/12/22 21:06:18.920 [INFO]     曲リストの初期化を完了しました。
+2025/12/22 21:06:19.101 [INFO] プラグインの検索と生成を行います。
+2025/12/22 21:06:19.102 [WARNING]     プラグインフォルダが存在しません。(F:\TJAPlayer3Develop-ReWrite\Test\Plugins\)
+2025/12/22 21:06:19.102 [INFO]     プラグインの検索と生成を完了しました。
+2025/12/22 21:06:19.122 [INFO] アプリケーションの初期化を完了しました。
+2025/12/22 21:06:19.122 [INFO] ----------------------
+2025/12/22 21:06:19.122 [INFO] ■ 起動
+2025/12/22 21:06:19.122 [INFO] 起動ステージを活性化します。
+2025/12/22 21:06:19.155 [INFO]     起動ステージの活性化を完了しました。
+2025/12/22 21:06:19.182 [INFO] 0) システムサウンドを構築します。
+2025/12/22 21:06:19.183 [WARNING]     ファイルが存在しません。: Sounds\Setup BGM.ogg
+2025/12/22 21:06:19.188 [INFO]     システムサウンドを読み込みました。(Sounds\Move.ogg)
+2025/12/22 21:06:19.190 [INFO]     システムサウンドを読み込みました。(Sounds\Decide.ogg)
+2025/12/22 21:06:19.192 [INFO]     システムサウンドを読み込みました。(Sounds\Change.ogg)
+2025/12/22 21:06:19.193 [INFO]     システムサウンドを読み込みました。(Sounds\Cancel.ogg)
+2025/12/22 21:06:19.193 [WARNING]     ファイルが存在しません。: Sounds\Audience.ogg
+2025/12/22 21:06:19.193 [INFO]     システムサウンドを読み込みました。(Sounds\Audience.ogg)
+2025/12/22 21:06:19.193 [WARNING]     ファイルが存在しません。: Sounds\Game start.ogg
+2025/12/22 21:06:19.193 [INFO]     システムサウンドを読み込みました。(Sounds\Game start.ogg)
+2025/12/22 21:06:19.193 [WARNING]     ファイルが存在しません。: Sounds\Full combo.ogg
+2025/12/22 21:06:19.193 [INFO]     システムサウンドを読み込みました。(Sounds\Full combo.ogg)
+2025/12/22 21:06:19.194 [INFO]     CSound.GroupLevel set: 90
+2025/12/22 21:06:19.194 [INFO]     CSound.SetVolume: Gain:0. Automation Level: 0. Group Level: -0.915149811213502. Summed Gain: -0.915149811213502. Safe True Peak Gain: 0. Final Gain: -0.915149811213502.
+2025/12/22 21:06:19.195 [INFO]     CSound.GroupLevel set: 90
+2025/12/22 21:06:19.195 [INFO]     CSound.SetVolume: Gain:0. Automation Level: 0. Group Level: -0.915149811213502. Summed Gain: -0.915149811213502. Safe True Peak Gain: 0. Final Gain: -0.915149811213502.
+2025/12/22 21:06:19.195 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Title.ogg)
+2025/12/22 21:06:19.196 [INFO]     CSound.GroupLevel set: 90
+2025/12/22 21:06:19.196 [INFO]     CSound.SetVolume: Gain:0. Automation Level: 0. Group Level: -0.915149811213502. Summed Gain: -0.915149811213502. Safe True Peak Gain: 0. Final Gain: -0.915149811213502.
+2025/12/22 21:06:19.197 [INFO]     CSound.GroupLevel set: 90
+2025/12/22 21:06:19.197 [INFO]     CSound.SetVolume: Gain:0. Automation Level: 0. Group Level: -0.915149811213502. Summed Gain: -0.915149811213502. Safe True Peak Gain: 0. Final Gain: -0.915149811213502.
+2025/12/22 21:06:19.197 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\SongSelect.ogg)
+2025/12/22 21:06:19.199 [INFO]     システムサウンドを読み込みました。(Sounds\balloon.ogg)
+2025/12/22 21:06:19.200 [INFO]     システムサウンドを読み込みました。(Sounds\SongDecide.ogg)
+2025/12/22 21:06:19.201 [INFO]     CSound.GroupLevel set: 90
+2025/12/22 21:06:19.201 [INFO]     CSound.SetVolume: Gain:0. Automation Level: 0. Group Level: -0.915149811213502. Summed Gain: -0.915149811213502. Safe True Peak Gain: 0. Final Gain: -0.915149811213502.
+2025/12/22 21:06:19.202 [INFO]     CSound.GroupLevel set: 90
+2025/12/22 21:06:19.202 [INFO]     CSound.SetVolume: Gain:0. Automation Level: 0. Group Level: -0.915149811213502. Summed Gain: -0.915149811213502. Safe True Peak Gain: 0. Final Gain: -0.915149811213502.
+2025/12/22 21:06:19.202 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Result_In.ogg)
+2025/12/22 21:06:19.202 [WARNING]     ファイルが存在しません。: Sounds\Resume.ogg
+2025/12/22 21:06:19.202 [INFO]     システムサウンドを読み込みました。(Sounds\Resume.ogg)
+2025/12/22 21:06:19.203 [INFO]     システムサウンドを読み込みました。(Sounds\Pause.ogg)
+2025/12/22 21:06:19.204 [INFO]     システムサウンドを読み込みました。(Sounds\Scroll.ogg)
+2025/12/22 21:06:19.207 [INFO]     システムサウンドを読み込みました。(Sounds\Jump Point.ogg)
+2025/12/22 21:06:19.208 [INFO]     システムサウンドを読み込みました。(Sounds\Traning Skip.ogg)
+2025/12/22 21:06:19.208 [INFO] 1) songlist.dbを読み込みます。
+2025/12/22 21:06:19.215 [INFO]     songlist.db の読み込みを完了しました。[0スコア]
+2025/12/22 21:06:19.215 [INFO] 起動所要時間: 00:00:00.0327675
+2025/12/22 21:06:19.234 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\Overlay.png)
+2025/12/22 21:06:19.245 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\1P_NamePlate.png)
+2025/12/22 21:06:19.245 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\2P_NamePlate.png)
+2025/12/22 21:06:19.510 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\3_SongSelect\Level.png)
+2025/12/22 21:06:19.511 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\3_SongSelect\Bar_Center.png)
+2025/12/22 21:06:19.513 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\3_SongSelect\Frame_Box.png)
+2025/12/22 21:06:19.514 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\3_SongSelect\Frame_BackBox.png)
+2025/12/22 21:06:19.514 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\3_SongSelect\Frame_Random.png)
+2025/12/22 21:06:19.514 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\3_SongSelect\Bar_Genre_RecentryPlaySong.png)
+2025/12/22 21:06:19.526 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\3_SongSelect\ScoreWindow_0.png)
+2025/12/22 21:06:19.527 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\3_SongSelect\ScoreWindow_1.png)
+2025/12/22 21:06:19.527 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\3_SongSelect\ScoreWindow_2.png)
+2025/12/22 21:06:19.527 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\3_SongSelect\ScoreWindow_3.png)
+2025/12/22 21:06:19.527 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\3_SongSelect\ScoreWindow_4.png)
+2025/12/22 21:06:19.527 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\3_SongSelect\ScoreWindow_5.png)
+2025/12/22 21:06:19.527 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\3_SongSelect\ScoreWindow_6.png)
+2025/12/22 21:06:19.690 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\3_SongSelect\ScoreWindow_Text.png)
+2025/12/22 21:06:21.381 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\5_Game\0\Background.png)
+2025/12/22 21:06:21.445 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\5_Game\6_Taiko\1P_PlayerNumber.png)
+2025/12/22 21:06:21.445 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\5_Game\6_Taiko\2P_PlayerNumber.png)
+2025/12/22 21:06:21.445 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\5_Game\6_Taiko\1P_NamePlate.png)
+2025/12/22 21:06:21.445 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\5_Game\6_Taiko\2P_NamePlate.png)
+2025/12/22 21:06:21.451 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\5_Game\4_CourseSymbol\Tower.png)
+2025/12/22 21:06:21.451 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\5_Game\4_CourseSymbol\Dan.png)
+2025/12/22 21:06:21.451 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\5_Game\4_CourseSymbol\Shin.png)
+2025/12/22 21:06:21.722 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\5_Game\15_Failed\Game.png)
+2025/12/22 21:06:21.722 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\5_Game\15_Failed\Stage.png)
+2025/12/22 21:06:21.722 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\5_Game\16_Runner\0.png)
+2025/12/22 21:06:21.749 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\5_Game\17_DanC\ExamUnit.png)
+2025/12/22 21:06:21.756 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\5_Game\18_PuchiChara\0.png)
+2025/12/22 21:06:21.968 [WARNING] テクスチャファイルが見つかりませんでした。(F:\TJAPlayer3Develop-ReWrite\Test\System\0.JpnNijiiro\Graphics\7_Exit\Background.png)
+2025/12/22 21:06:23.477 [INFO] 起動ステージを非活性化します。
+2025/12/22 21:06:23.478 [INFO]     起動ステージの非活性化を完了しました。
+2025/12/22 21:06:23.478 [INFO] ----------------------
+2025/12/22 21:06:23.478 [INFO] ■ タイトル
+2025/12/22 21:06:23.479 [INFO] タイトルステージを活性化します。
+2025/12/22 21:06:23.481 [INFO]     CSound.GroupLevel set: 90
+2025/12/22 21:06:23.481 [INFO]     CSound.SetVolume: Gain:0. Automation Level: 0. Group Level: -0.915149811213502. Summed Gain: -0.915149811213502. Safe True Peak Gain: 0. Final Gain: -0.915149811213502.
+2025/12/22 21:06:23.482 [INFO]     CSound.GroupLevel set: 90
+2025/12/22 21:06:23.482 [INFO]     CSound.SetVolume: Gain:0. Automation Level: 0. Group Level: -0.915149811213502. Summed Gain: -0.915149811213502. Safe True Peak Gain: 0. Final Gain: -0.915149811213502.
+2025/12/22 21:06:23.482 [INFO]     タイトルステージの活性化を完了しました。
+2025/12/22 21:06:23.521 [INFO] ★曲データ検索スレッドを起動しました。
+2025/12/22 21:06:23.522 [INFO] enum2) 曲データを検索します。
+2025/12/22 21:06:23.522 [INFO]     検索パス: F:\TJAPlayer3Develop-ReWrite\Test\.\
+2025/12/22 21:06:23.542 [INFO]     曲データの検索を完了しました。[0曲0スコア]
+2025/12/22 21:06:23.542 [INFO] 0, 0
+2025/12/22 21:06:23.542 [INFO] enum4) songs.db になかった曲データ[0スコア]の情報をファイルから読み込んで反映します。
+2025/12/22 21:06:23.543 [INFO]     曲データへの反映を完了しました。[0/0スコア]
+2025/12/22 21:06:23.544 [INFO] enum5) 曲リストへの後処理を適用します。
+2025/12/22 21:06:23.546 [INFO]     曲リストへの後処理を完了しました。
+2025/12/22 21:06:23.546 [INFO] enum7) 曲データの情報を songlist.db へ出力します。
+2025/12/22 21:06:23.551 [INFO]     songlist.db への出力を完了しました。
+2025/12/22 21:06:23.551 [INFO] 曲探索所要時間: 00:00:00.0293684
+2025/12/22 21:06:31.861 [INFO] ----------------------
+2025/12/22 21:06:31.861 [INFO] ■ アプリケーションの終了
+2025/12/22 21:06:31.862 [INFO] 曲検索actの終了処理を行います。
+2025/12/22 21:06:31.862 [INFO]     曲検索actの終了処理を完了しました。
+2025/12/22 21:06:31.862 [INFO] 現在のステージを終了します。
+2025/12/22 21:06:31.862 [INFO]     タイトルステージを非活性化します。
+2025/12/22 21:06:31.862 [INFO]         タイトルステージの非活性化を完了しました。
+2025/12/22 21:06:31.863 [INFO]     現在のステージの終了処理を完了しました。
+2025/12/22 21:06:31.863 [INFO] [Discord] Shutdowned.
+2025/12/22 21:06:31.863 [INFO] 曲リストの終了処理を行います。
+2025/12/22 21:06:31.863 [INFO]     曲リストの終了処理を完了しました。
+2025/12/22 21:06:31.936 [INFO] スキンの終了処理を行います。
+2025/12/22 21:06:31.939 [INFO]     スキンの終了処理を完了しました。
+2025/12/22 21:06:31.939 [INFO] DirectSound の終了処理を行います。
+2025/12/22 21:06:31.949 [INFO]     DirectSound の終了処理を完了しました。
+2025/12/22 21:06:31.949 [INFO] パッドの終了処理を行います。
+2025/12/22 21:06:31.949 [INFO]     パッドの終了処理を完了しました。
+2025/12/22 21:06:31.949 [INFO] DirectInput, MIDI入力の終了処理を行います。
+2025/12/22 21:06:31.951 [INFO]     DirectInput, MIDI入力の終了処理を完了しました。
+2025/12/22 21:06:31.951 [INFO] 文字コンソールの終了処理を行います。
+2025/12/22 21:06:31.951 [INFO]     文字コンソールの終了処理を完了しました。
+2025/12/22 21:06:31.951 [INFO] FPSカウンタの終了処理を行います。
+2025/12/22 21:06:31.951 [INFO]     FPSカウンタの終了処理を完了しました。
+2025/12/22 21:06:31.951 [INFO] タイマの終了処理を行います。
+2025/12/22 21:06:31.951 [INFO]     タイマの終了処理を完了しました。
+2025/12/22 21:06:31.951 [INFO] Config.ini を出力します。
+2025/12/22 21:06:31.961 [INFO]     保存しました。(F:\TJAPlayer3Develop-ReWrite\Test\Config.ini)
+2025/12/22 21:06:31.961 [INFO] Deinitializing loudness scanning, song gain control, and sound group level control...
+2025/12/22 21:06:31.961 [INFO] Deinitialized loudness scanning, song gain control, and sound group level control.
+2025/12/22 21:06:31.962 [INFO] アプリケーションの終了処理を完了しました。
+
+遊んでくれてありがとう！
