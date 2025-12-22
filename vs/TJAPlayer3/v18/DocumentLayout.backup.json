@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\TJAPlayer3Develop-ReWrite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81BEC512-8074-4BD1-8A3C-AC73BC7BF846}|TJAPlayer3\\TJAPlayer3.csproj|f:\\tjaplayer3develop-rewrite\\tjaplayer3\\stages\\01.startup\\cstage\u8D77\u52D5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BEC512-8074-4BD1-8A3C-AC73BC7BF846}|TJAPlayer3\\TJAPlayer3.csproj|solutionrelative:tjaplayer3\\stages\\01.startup\\cstage\u8D77\u52D5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BEC512-8074-4BD1-8A3C-AC73BC7BF846}|TJAPlayer3\\TJAPlayer3.csproj|f:\\tjaplayer3develop-rewrite\\tjaplayer3\\stages\\01.startup\\textureloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BEC512-8074-4BD1-8A3C-AC73BC7BF846}|TJAPlayer3\\TJAPlayer3.csproj|solutionrelative:tjaplayer3\\stages\\01.startup\\textureloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BEC512-8074-4BD1-8A3C-AC73BC7BF846}|TJAPlayer3\\TJAPlayer3.csproj|f:\\tjaplayer3develop-rewrite\\tjaplayer3\\stages\\02.title\\cstage\u30BF\u30A4\u30C8\u30EB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BEC512-8074-4BD1-8A3C-AC73BC7BF846}|TJAPlayer3\\TJAPlayer3.csproj|solutionrelative:tjaplayer3\\stages\\02.title\\cstage\u30BF\u30A4\u30C8\u30EB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BEC512-8074-4BD1-8A3C-AC73BC7BF846}|TJAPlayer3\\TJAPlayer3.csproj|f:\\tjaplayer3develop-rewrite\\tjaplayer3\\stages\\02.title\\cactscanningloudness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BEC512-8074-4BD1-8A3C-AC73BC7BF846}|TJAPlayer3\\TJAPlayer3.csproj|solutionrelative:tjaplayer3\\stages\\02.title\\cactscanningloudness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BEC512-8074-4BD1-8A3C-AC73BC7BF846}|TJAPlayer3\\TJAPlayer3.csproj|f:\\tjaplayer3develop-rewrite\\tjaplayer3\\stages\\02.title\\cactenumsongs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BEC512-8074-4BD1-8A3C-AC73BC7BF846}|TJAPlayer3\\TJAPlayer3.csproj|solutionrelative:tjaplayer3\\stages\\02.title\\cactenumsongs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BEC512-8074-4BD1-8A3C-AC73BC7BF846}|TJAPlayer3\\TJAPlayer3.csproj|f:\\tjaplayer3develop-rewrite\\tjaplayer3\\stages\\02.title\\cenumsongs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BEC512-8074-4BD1-8A3C-AC73BC7BF846}|TJAPlayer3\\TJAPlayer3.csproj|solutionrelative:tjaplayer3\\stages\\02.title\\cenumsongs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FDK19||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD40908-F3E2-4707-BFAA-1DD99DF6357D}|FDK19\\FDK19.csproj|f:\\tjaplayer3develop-rewrite\\fdk19\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextureLoader.cs",
+              "DocumentMoniker": "F:\\TJAPlayer3Develop-ReWrite\\TJAPlayer3\\Stages\\01.StartUp\\TextureLoader.cs",
+              "RelativeDocumentMoniker": "TJAPlayer3\\Stages\\01.StartUp\\TextureLoader.cs",
+              "ToolTip": "F:\\TJAPlayer3Develop-ReWrite\\TJAPlayer3\\Stages\\01.StartUp\\TextureLoader.cs",
+              "RelativeToolTip": "TJAPlayer3\\Stages\\01.StartUp\\TextureLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T12:07:35.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CStage\u8D77\u52D5.cs",
+              "DocumentMoniker": "F:\\TJAPlayer3Develop-ReWrite\\TJAPlayer3\\Stages\\01.StartUp\\CStage\u8D77\u52D5.cs",
+              "RelativeDocumentMoniker": "TJAPlayer3\\Stages\\01.StartUp\\CStage\u8D77\u52D5.cs",
+              "ToolTip": "F:\\TJAPlayer3Develop-ReWrite\\TJAPlayer3\\Stages\\01.StartUp\\CStage\u8D77\u52D5.cs",
+              "RelativeToolTip": "TJAPlayer3\\Stages\\01.StartUp\\CStage\u8D77\u52D5.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA4wAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T12:06:20.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CActScanningLoudness.cs",
+              "DocumentMoniker": "F:\\TJAPlayer3Develop-ReWrite\\TJAPlayer3\\Stages\\02.Title\\CActScanningLoudness.cs",
+              "RelativeDocumentMoniker": "TJAPlayer3\\Stages\\02.Title\\CActScanningLoudness.cs",
+              "ToolTip": "F:\\TJAPlayer3Develop-ReWrite\\TJAPlayer3\\Stages\\02.Title\\CActScanningLoudness.cs",
+              "RelativeToolTip": "TJAPlayer3\\Stages\\02.Title\\CActScanningLoudness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T12:06:00.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CActEnumSongs.cs",
+              "DocumentMoniker": "F:\\TJAPlayer3Develop-ReWrite\\TJAPlayer3\\Stages\\02.Title\\CActEnumSongs.cs",
+              "RelativeDocumentMoniker": "TJAPlayer3\\Stages\\02.Title\\CActEnumSongs.cs",
+              "ToolTip": "F:\\TJAPlayer3Develop-ReWrite\\TJAPlayer3\\Stages\\02.Title\\CActEnumSongs.cs",
+              "RelativeToolTip": "TJAPlayer3\\Stages\\02.Title\\CActEnumSongs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T12:06:00.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CStage\u30BF\u30A4\u30C8\u30EB.cs",
+              "DocumentMoniker": "F:\\TJAPlayer3Develop-ReWrite\\TJAPlayer3\\Stages\\02.Title\\CStage\u30BF\u30A4\u30C8\u30EB.cs",
+              "RelativeDocumentMoniker": "TJAPlayer3\\Stages\\02.Title\\CStage\u30BF\u30A4\u30C8\u30EB.cs",
+              "ToolTip": "F:\\TJAPlayer3Develop-ReWrite\\TJAPlayer3\\Stages\\02.Title\\CStage\u30BF\u30A4\u30C8\u30EB.cs",
+              "RelativeToolTip": "TJAPlayer3\\Stages\\02.Title\\CStage\u30BF\u30A4\u30C8\u30EB.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T12:06:00.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CEnumSongs.cs",
+              "DocumentMoniker": "F:\\TJAPlayer3Develop-ReWrite\\TJAPlayer3\\Stages\\02.Title\\CEnumSongs.cs",
+              "RelativeDocumentMoniker": "TJAPlayer3\\Stages\\02.Title\\CEnumSongs.cs",
+              "ToolTip": "F:\\TJAPlayer3Develop-ReWrite\\TJAPlayer3\\Stages\\02.Title\\CEnumSongs.cs",
+              "RelativeToolTip": "TJAPlayer3\\Stages\\02.Title\\CEnumSongs.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T12:05:59.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FDK19",
+              "DocumentMoniker": "F:\\TJAPlayer3Develop-ReWrite\\FDK19\\FDK19.csproj",
+              "RelativeDocumentMoniker": "FDK19\\FDK19.csproj",
+              "ToolTip": "F:\\TJAPlayer3Develop-ReWrite\\FDK19\\FDK19.csproj",
+              "RelativeToolTip": "FDK19\\FDK19.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-21T11:54:51.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
