@@ -1,4 +1,4 @@
-# TJAPlayer3-Develop-ReWrite
+# ReTaikoDevKatsu
 DTXManiaをいじってtja再生プログラムにしちゃった[TJAPlayer2fPC](https://github.com/kairera0467/TJAP2fPC)をForkして本家風に改造した
 [TJAPlayer3](https://github.com/AioiLight/TJAPlayer3)を超本家風に改造したアレを書き直したもの。
 
@@ -33,3 +33,4 @@ Fork元より引用。
 > * [KabanFriends/TJAPlayer3](https://github.com/KabanFriends/TJAPlayer3/tree/features)(@KabanFriends)
 > * [Mr-Ojii/TJAPlayer3-f](https://github.com/Mr-Ojii/TJAPlayer3-f)(@Mr-Ojii)
 > * [Akasoko/TJAPlayer3](https://github.com/Akasoko-Master/TJAPlayer3)(@AkasokoR)
+
