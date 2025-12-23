@@ -6,7 +6,7 @@ DTXManiaをいじってtja再生プログラムにしちゃった[TJAPlayer2fPC]
 team:開発先輩
 メンバー
 あいうえお
-oioiba6ka
+チャング！
 あくいりあ
 ゆう
 ししょー
@@ -37,5 +37,6 @@ Fork元より引用。
 > * [Akasoko/TJAPlayer3](https://github.com/Akasoko-Master/TJAPlayer3)(@AkasokoR)
 > * [Touhou-Renren/TjaPlayer3-Develop-Rewrite](https://github.com/touhourenren/TJAPlayer3-Develop-ReWrite).(@Touhou-Renren)
 . 
+
 
 
