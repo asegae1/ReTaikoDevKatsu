@@ -1,14 +1,16 @@
 # ReTaikoDevKatsu
 DTXManiaをいじってtja再生プログラムにしちゃった[TJAPlayer2fPC](https://github.com/kairera0467/TJAP2fPC)をForkして本家風に改造した
 [TJAPlayer3](https://github.com/AioiLight/TJAPlayer3)を超本家風に改造したアレを書き直したもの。
-
+それを改造して、デモをつけたやつ
 このプログラムを使用した不具合・問題については責任を負いかねます。
-
-## How 2 Build
-- VisualStudio 2017 & C# 7.3
-- VC++ toolset
-- SlimDX用の署名
-
+team:開発先輩
+メンバー
+あいうえお
+oioiba6ka
+あくいりあ
+ゆう
+ししょー
+- VisualStudio 2026
 ## ライセンス関係
 Fork元より引用。
 
@@ -34,3 +36,4 @@ Fork元より引用。
 > * [Mr-Ojii/TJAPlayer3-f](https://github.com/Mr-Ojii/TJAPlayer3-f)(@Mr-Ojii)
 > * [Akasoko/TJAPlayer3](https://github.com/Akasoko-Master/TJAPlayer3)(@AkasokoR)
 > * [Touhou-Renren/TjaPlayer3-Develop-Rewrite]
+
