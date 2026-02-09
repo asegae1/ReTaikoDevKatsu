@@ -5,7 +5,6 @@ DTXManiaをいじってtja再生プログラムにしちゃった[TJAPlayer2fPC]
 このプログラムを使用した不具合・問題については責任を負いかねます。
 team:開発先輩
 メンバー
-チャング！
 あくいりあ
 ゆう
 - VisualStudio 2026
@@ -35,6 +34,7 @@ Fork元より引用。
 > * [Akasoko/TJAPlayer3](https://github.com/Akasoko-Master/TJAPlayer3)(@AkasokoR)
 > * [Touhou-Renren/TjaPlayer3-Develop-Rewrite](https://github.com/touhourenren/TJAPlayer3-Develop-ReWrite).(@Touhou-Renren)
 . 
+
 
 
 
